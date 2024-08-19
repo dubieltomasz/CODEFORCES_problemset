@@ -4,7 +4,6 @@
 int main()
 {
   unsigned long long n, m, a;
-  std::string answer = "";
 
   std::cin >> n >> m >> a;
   
